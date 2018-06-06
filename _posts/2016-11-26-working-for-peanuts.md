@@ -11,9 +11,9 @@ img: peanut-work.jpg
 testing another image post
 37
 40
-```mermaid
+<div class="mermaid">
 
 graph TD
 CR[card row]-->|1|CASH[cash in had]
 
-```
+</div>
