@@ -14,6 +14,6 @@ testing another image post
 <div class="mermaid">
 
 graph TD
-CR[card row]-->|1|CASH[cash in had]
+CR[card row]-->|1|CASH[cash in had];
 
 </div>
